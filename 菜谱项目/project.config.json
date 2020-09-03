@@ -1,0 +1,131 @@
+{
+	"miniprogramRoot": "miniprogram/",
+	"cloudfunctionRoot": "cloudfunctions/",
+	"setting": {
+		"urlCheck": true,
+		"es6": true,
+		"enhance": true,
+		"postcss": true,
+		"preloadBackgroundData": false,
+		"minified": true,
+		"newFeature": true,
+		"coverView": true,
+		"nodeModules": true,
+		"autoAudits": false,
+		"showShadowRootInWxmlPanel": true,
+		"scopeDataCheck": false,
+		"uglifyFileName": false,
+		"checkInvalidKey": true,
+		"checkSiteMap": true,
+		"uploadWithSourceMap": true,
+		"compileHotReLoad": false,
+		"babelSetting": {
+			"ignore": [],
+			"disablePlugins": [],
+			"outputPath": ""
+		},
+		"useIsolateContext": true,
+		"useCompilerModule": true,
+		"userConfirmedUseCompilerModuleSwitch": false
+	},
+	"appid": "wx1fa0c01a718d4f8b",
+	"projectname": "%E8%8F%9C%E8%B0%B1%E9%A1%B9%E7%9B%AE",
+	"libVersion": "2.11.3",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"list": []
+		},
+		"gamePlugin": {
+			"current": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 0,
+			"list": [
+				{
+					"id": -1,
+					"name": "db guide",
+					"pathName": "pages/databaseGuide/databaseGuide",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "pages/pbmenutype/pbmenutype",
+					"pathName": "pages/pbmenutype/pbmenutype",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/pbmenu/pbmenu",
+					"pathName": "pages/pbmenu/pbmenu",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/personal/personal",
+					"pathName": "pages/personal/personal",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/search/search",
+					"pathName": "pages/search/search",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/typelist/typelist",
+					"pathName": "pages/typelist/typelist",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": 6,
+					"name": "pages/recipelist/recipelist",
+					"pathName": "pages/recipelist/recipelist",
+					"query": "id=8a6c3bf65f45084400407ddb65d4b439&typename=粤菜",
+					"scene": null
+				},
+				{
+					"id": 7,
+					"name": "pages/recipeDetail/recipeDetail",
+					"pathName": "pages/recipeDetail/recipeDetail",
+					"query": "id=ac5f38825f45c3890057bda323ad44de",
+					"scene": null
+				},
+				{
+					"id": 8,
+					"name": "pages/search/search",
+					"pathName": "pages/search/search",
+					"query": "",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/recipelist/recipelist",
+					"pathName": "pages/recipelist/recipelist",
+					"query": "",
+					"scene": null
+				}
+			]
+		}
+	}
+}
